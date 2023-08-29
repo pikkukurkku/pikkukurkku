@@ -1,7 +1,10 @@
 let raceNumber = Math.floor(Math.random() * 1000);
 let runnerAge = 30
 let registeredEarly = true
+
+//I think I missed a step here, in the exrecise review there was a first if to check the conditions and after that came the flow with a new 'if' statement
 if (runnerAge >= 19 && registeredEarly) {
+//1000 + racenumber was definied in the first if statement in the review, and as raceNumber += 1000, not like I did
   console.log(`Your run starts at 9:30. Your starting number is ${1000 + raceNumber}`);
 } else if (runnerAge >= 19 && !registeredEarly) {
   console.log(`Your run starts at 11:00. Your starting number is ${raceNumber}`);
