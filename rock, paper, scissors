@@ -1,0 +1,46 @@
+console.log('hi, choose your weapon');
+const item1 = 'Rock';
+const item2 = 'Paper';
+const item3 = 'Scissors';
+
+  const computerChoice = Math.ceil(Math.random()*3)
+  switch (computerChoice) {
+case 1:
+console.log('Computer: ' + "Rock");
+break;
+case 2:
+console.log('Computer: ' + "Paper");
+break;
+case 3:
+console.log('Computer: ' + 'Scissors')
+    }
+
+const playerChoice = Math.ceil(Math.random()*3)
+  switch (playerChoice) {
+case 1:
+console.log('Player: ' + "Rock");
+break;
+case 2:
+console.log('Player: ' + "Paper");
+break;
+case 3:
+console.log('Player: ' + 'Scissors')
+    }
+
+if (playerChoice === computerChoice) {
+  console.log('Draw!')
+}
+
+if (playerChoice === 'Scissors' && computerChoice === 'Paper') {
+  console.log('You win!');
+} else if (playerChoice === 'Paper' && computerChoice === 'Rock') {
+  console.log('You win!');
+} else if (playerChoice === 'Rock' && computerChoice === 'Scissors') {
+  console.log('You win!');
+} else if (computerChoice === 'Rock' && playerChoice === 'Scissors') {
+  console.log('You lose!');
+} else if (computerChoice === 'Paper' && playerChoice === 'Rock') {
+  console.log('You lose!');
+} else if (computerChoice === 'Scissors' && playerChoice === 'Paper') {
+  console.log('You lose!');
+  }
