@@ -1,0 +1,56 @@
+const menu = {
+  _meal: '',
+  _price: 0,
+  set meal (mealToCheck) {
+if(typeof mealToCheck === ''){
+return this._meal = mealToCheck
+}},
+set price (priceToCheck) {
+if(typeof mealToCheck === 'number'){
+return this._price = priceToCheck}},
+get todaysSpecial () {
+  if (menu._meal === '' && menu._price === 'number'){
+    return (`Today's special is ${this._meal} for ${this._price}€!`)
+  } else {
+    return ('Meal or price was not set correctly!')
+  }
+}
+};
+menu._meal = 'Pad Thai'
+menu._price = 29
+
+console.log(menu.todaysSpecial);
+
+
+
+
+
+
+correct:
+
+const menu = {
+  _meal: '',
+  _price: 0,
+
+  set meal (mealToCheck) {
+if(typeof mealToCheck === 'string'){
+return this._meal = mealToCheck;  
+}},
+
+set price (priceToCheck) {
+if(typeof mealToCheck === 'number'){
+return this._price = priceToCheck;}},
+
+
+get todaysSpecial () {
+  if (this._meal && this._price){
+    return (`Today's special is ${this._meal} for ${this._price}€!`)
+  } else {
+    return ('Meal or price was not set correctly!')
+  }
+}
+};
+menu._meal = 'Pad Thai'
+menu._price = 29
+
+console.log(menu.todaysSpecial);
