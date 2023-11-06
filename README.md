@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pikkukurkku
 - 👀 I’m looking to become a software developer.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on coding projects.
+- 💞️ I’m would like to collaborate on coding projects.
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
 <!---
