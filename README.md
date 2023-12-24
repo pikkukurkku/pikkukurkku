@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pikkukurkku
-- 👀 I’m looking to become a software developer.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m becoming a web developer.
+- 🌱 I have been learning since August 2023 and will start a web developer bootcamp Jan 2024.
 - 💞️ I’m would like to collaborate on coding projects.
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
