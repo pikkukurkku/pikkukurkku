@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pikkukurkku!
 - 👀 I’m a full-stack MERN web developer.
-- 🌱 I have been lprogramming since August 2023 and I am a graduate of an Ironhack Web Development Bootcamp.
+- 🌱 I have been programming since August 2023
+- 🎓 I am a graduate of an Ironhack Web Development Bootcamp.
 - 💞️ I would like to collaborate on coding projects.
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
