@@ -2,7 +2,7 @@
 - 👀 I’m a full-stack MERN web developer
 - 🌱 Programming since August 2023
 - 🎓 Graduate of the Ironhack Web Development Bootcamp
-- 💞️ Looking for work opportunities
+- ✨ Looking for work opportunities
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
 <!---
