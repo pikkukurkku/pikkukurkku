@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @pikkukurkku!
+- 💪 I am commited to grow as a web developer and code until I retire
+
 - 👀 I’m a full-stack MERN web developer
-- 🌱 Programming since August 2023
-- 🎓 Graduate of the Ironhack Web Development Bootcamp
+- 🎓 Graduate of the Ironhack Web Development Bootcamp - more than just a crash course in html/css. I learnt how to build full stack
+  applications with API calls to noSQL Databases or JSON server, I also know how to code user autherntication in the backend and much more
+- 🎓 REACT, EXPRESS, JAVASCRIPT, REST API, software testing with Jasmine, Mongo DB
 - ✨ Looking for work opportunities
+- 
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
 <!---
