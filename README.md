@@ -6,7 +6,7 @@
   applications with API calls to noSQL Databases or JSON server, I also know how to code user authentication in the backend and much, much more
 - 🎓 REACT, EXPRESS, JAVASCRIPT, REST API, software testing with Jasmine, Mongo DB
 - ✨ Looking for work opportunities, please be that one "yes" :) I will pay off with hard work and dedication.
-- 
+  
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
 <!---
