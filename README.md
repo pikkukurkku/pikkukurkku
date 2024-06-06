@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pikkukurkku!
+- 👋 Hi, I’m Natalia!
 - 💪 I am commited to grow as a web developer and code until I retire
 
 - 👀 I’m a full-stack MERN web developer
