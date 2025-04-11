@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia!
 - 💪 I am currently working as an App Developer (React Native/SwiftUI) for a Software Company in lovely Bavaria.
-- :gem: React/React Native, SwiftUI, Express, JavaScript, REST API, Storyblok, unit testing with Jasmine & Jest, Git/GitLab/GitHub
+- :gem: React/React Native, SwiftUI, Express, JavaScript, REST API, Storyblok, Firebase, unit testing with Jasmine & Jest, Git/GitLab/GitHub
   
 - 📫 How to reach me => natalia.ogorek@gmail.com
 
